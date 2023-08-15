@@ -1,0 +1,10 @@
+netifaces
+Pillow
+psutil
+pyTelegramBotAPI
+requests
+urllib3
+winregistry
+pypiwin32
+tk
+mathø
